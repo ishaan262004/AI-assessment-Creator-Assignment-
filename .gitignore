@@ -1,0 +1,17 @@
+node_modules
+dist
+build
+coverage
+.next
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+firebase-debug.log
+
+# OS
+.DS_Store
