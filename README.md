@@ -7,9 +7,9 @@ An AI-powered assessment creation tool for school teachers. Upload study materia
 
 ## Screenshots
 
-| Assignments Dashboard | Create Assignment | Generated Output | Mobile View |
+| Assignment Dashboard | Assignment Creation | Mobile View | Assignment Created |
 |---|---|---|---|
-| ![Dashboard](frontend/public/assets/screenshots/assignment-dash.png) | ![Create](frontend/public/assets/screenshots/assignment-create.png) | ![Output](frontend/public/assets/screenshots/assignment-output.png) | ![Mobile Dashboard](frontend/public/assets/screenshots/assignment-dash-mobile.png) |
+| ![Assignment Dashboard](frontend/public/assets/screenshots/assignment-dash.png) | ![Assignment Creation](frontend/public/assets/screenshots/assignment-create.png) | ![Mobile View](frontend/public/assets/screenshots/assignment-dash-mobile.png) | ![Assignment Created](frontend/public/assets/screenshots/assignment-output.png) |
 
 ---
 
