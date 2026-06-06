@@ -2,7 +2,6 @@
 
 An AI-powered assessment creation tool for school teachers. Upload study material, configure a question rubric, and generate a complete, structured question paper using Google Gemini — with real-time progress updates and PDF export.
 
-**Live Demo:** [myveda-ai.vercel.app](https://myveda-ai.vercel.app)
 
 ---
 
