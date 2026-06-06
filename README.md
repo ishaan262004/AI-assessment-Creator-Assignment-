@@ -18,13 +18,13 @@ An AI-powered assessment creation tool for school teachers. Upload study materia
 - Upload reference materials (PDFs, images) via drag-and-drop
 - Configure question types, count, and marks per question
 - AI-generated structured question paper with sections, difficulty levels, and answer key
-- Real-time generation progress via WebSocket (with polling fallback)
+- Real time generation progress via WebSocket (with polling fallback)
 - Formatted output page with school info, student fields, and printable layout
 - PDF export via browser print
 - Regenerate with same settings or edit and regenerate
 - Voice-to-text input for additional instructions
 - Assignments persisted to localStorage and displayed on dashboard
-- Fully responsive — mobile bottom nav, adaptive layouts
+- Fully responsive, mobile bottom nav, adaptive layouts
 
 ---
 
@@ -167,8 +167,9 @@ The frontend also polls every 5 seconds as a fallback in case the WebSocket even
 
 ## Future Improvements
 
-- Dedicated PDF export (server-side rendering instead of browser print)
+- Enhanced PDF Generation :- Generate professionally formatted PDFs with custom school branding, logos, headers, footers, and page numbering.
 - User authentication and multi-teacher support
-- Question bank and paper history
 - Finer prompt controls (bloom's taxonomy, chapter-specific weighting)
+- Dedicated PDF export (server-side rendering instead of browser print)
+- Production-Grade Infrastructure :- Add monitoring, centralized logging, rate limiting, automated testing, and CI/CD pipelines for enterprise-scale deployments.
 - Batch grading of student submissions
